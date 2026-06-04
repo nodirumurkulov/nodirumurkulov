@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%90+Building+defenses+before+the+breach;%F0%9F%A7%A0+ML-powered+threat+detection+%7C+V2X+Security;%F0%9F%9B%A1%EF%B8%8F+From+CTF+flags+to+production+hardening)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%94%90+Building+defenses+before+the+breach;%F0%9F%A7%A0+ML-powered+threat+detection+%7C+V2X+Security;%F0%9F%9B%A1%EF%B8%8F+From+CTF+flags+to+production+hardening)](https://git.io/typing-svg)
 
 </div>
 
