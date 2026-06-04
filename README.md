@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%94%90+Building+defenses+before+the+breach;%F0%9F%A7%A0+ML-powered+threat+detection+%7C+V2X+Security;%F0%9F%9B%A1%EF%B8%8F+From+CTF+flags+to+production+hardening)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+defenses+before+the+breach;ML-powered+threat+detection+%7C+V2X+Security;From+CTF+flags+to+production+hardening)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,7 +36,7 @@ class SecurityResearcher:
   <img width="100%" src="assets/divider.png" alt=""/>
 </p>
 
-### 🛡️ Security Arsenal
+### Security Arsenal
 
 <div align="center">
 
@@ -135,7 +135,7 @@ class SecurityResearcher:
   <img width="100%" src="assets/divider.png" alt=""/>
 </p>
 
-### 🔬 Featured Research & Projects
+### Featured Research & Projects
 
 <div align="center">
 <table>
@@ -212,7 +212,7 @@ class SecurityResearcher:
   <img width="100%" src="assets/divider.png" alt=""/>
 </p>
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img height="180em" src="assets/langs-card.png" alt="Top Languages"/>
@@ -228,7 +228,7 @@ class SecurityResearcher:
   <img width="100%" src="assets/divider.png" alt=""/>
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nodirumurkulov&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)](https://github.com/nodirumurkulov)
 
@@ -236,7 +236,7 @@ class SecurityResearcher:
   <img width="100%" src="assets/divider.png" alt=""/>
 </p>
 
-### 🏆 CTF & Certifications
+### CTF & Certifications
 
 <div align="center">
 
@@ -250,7 +250,7 @@ class SecurityResearcher:
   <img width="100%" src="assets/divider.png" alt=""/>
 </p>
 
-### 🌐 Community
+### Community
 
 <div align="center">
 
