@@ -47,6 +47,10 @@ class SecurityResearcher:
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-007396?style=for-the-badge)
 ![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-4B275F?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-1a1a2e?style=for-the-badge)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-16213e?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-0f3460?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-533483?style=for-the-badge)
 
 **AI / ML Security**
 
@@ -76,10 +80,40 @@ class SecurityResearcher:
 ![Data Poisoning Defense](https://img.shields.io/badge/Data_Poisoning_Defense-DAA520?style=for-the-badge)
 ![Membership Inference](https://img.shields.io/badge/Membership_Inference-708090?style=for-the-badge)
 
+**Cloud & Infrastructure Security**
+
+![AWS](https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Application Security**
+
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SAST](https://img.shields.io/badge/SAST-2C3E50?style=for-the-badge)
+![DAST](https://img.shields.io/badge/DAST-34495E?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API_Security-009688?style=for-the-badge)
+![OAuth/OIDC](https://img.shields.io/badge/OAuth_/_OIDC-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-1B1F23?style=for-the-badge)
+
+**Security Operations & Compliance**
+
+![SIEM](https://img.shields.io/badge/SIEM-2C3E50?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC_Operations-1a1a2e?style=for-the-badge)
+![SOAR](https://img.shields.io/badge/SOAR-4A154B?style=for-the-badge)
+![SOC 2](https://img.shields.io/badge/SOC_2-003366?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-006600?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST_Framework-003366?style=for-the-badge)
+
 **Languages & Frameworks**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -90,7 +124,10 @@ class SecurityResearcher:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge)
+![Hashicorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 
 </div>
 
