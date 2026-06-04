@@ -180,7 +180,7 @@ class SecurityResearcher:
 
 ### `> netstat -an | grep LISTENING`
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnjohnson139022@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nodirumurkulov128@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nodirumurkulov-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nodirumurkulov)
 
 </div>
