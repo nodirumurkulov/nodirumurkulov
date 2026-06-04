@@ -192,6 +192,24 @@ class SecurityResearcher:
   <img width="100%" src="assets/divider.png" alt=""/>
 </p>
 
+### 🌐 Community
+
+<div align="center">
+
+<a href="https://www.linkedin.com/company/116003481/">
+  <img width="100%" src="assets/sbc-banner.png" alt="Security Builders Club — Join the community"/>
+</a>
+
+<br/>
+
+[![Join Security Builders Club](https://img.shields.io/badge/Security_Builders_Club-Join_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/116003481/)
+
+</div>
+
+<p align="center">
+  <img width="100%" src="assets/divider.png" alt=""/>
+</p>
+
 <div align="center">
 
 ### `> netstat -an | grep LISTENING`
