@@ -158,10 +158,10 @@ class SecurityResearcher:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="assets/stats-card.png" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
   <img height="180em" src="assets/langs-card.png" alt="Top Languages"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodirumurkulov&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="700"/>
