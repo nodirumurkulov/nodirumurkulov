@@ -55,6 +55,26 @@ class SecurityResearcher:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**AI Safety & Alignment**
+
+![Red Teaming](https://img.shields.io/badge/LLM_Red_Teaming-DC143C?style=for-the-badge)
+![Prompt Injection](https://img.shields.io/badge/Prompt_Injection_Defense-FF4500?style=for-the-badge)
+![RLHF](https://img.shields.io/badge/RLHF-8A2BE2?style=for-the-badge)
+![AI Alignment](https://img.shields.io/badge/AI_Alignment-6A0DAD?style=for-the-badge)
+![Jailbreak Defense](https://img.shields.io/badge/Jailbreak_Defense-B22222?style=for-the-badge)
+![Adversarial Robustness](https://img.shields.io/badge/Adversarial_Robustness-FF6347?style=for-the-badge)
+
+**AI Security Research**
+
+![Differential Privacy](https://img.shields.io/badge/Differential_Privacy-2E8B57?style=for-the-badge)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-4682B4?style=for-the-badge)
+![Model Interpretability](https://img.shields.io/badge/Model_Interpretability-20B2AA?style=for-the-badge)
+![Supply Chain Security](https://img.shields.io/badge/ML_Supply_Chain_Security-CD853F?style=for-the-badge)
+![Data Poisoning Defense](https://img.shields.io/badge/Data_Poisoning_Defense-DAA520?style=for-the-badge)
+![Membership Inference](https://img.shields.io/badge/Membership_Inference-708090?style=for-the-badge)
 
 **Languages & Frameworks**
 
