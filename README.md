@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6334&height=220&section=header&text=Nodir%20Umurkulov&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20Security%20Researcher%20%7C%20Threat%20Intelligence%20%7C%20Red%20%26%20Blue%20Team&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<p align="center">
+  <img width="100%" src="assets/header-banner.png" alt="Nodir Umurkulov — AI Security Researcher"/>
+</p>
 
 <div align="center">
 
@@ -6,7 +8,9 @@
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="assets/divider.png" alt=""/>
+</p>
 
 ### `> whoami`
 
@@ -28,7 +32,9 @@ class SecurityResearcher:
         ]
 ```
 
----
+<p align="center">
+  <img width="100%" src="assets/divider.png" alt=""/>
+</p>
 
 ### 🛡️ Security Arsenal
 
@@ -68,7 +74,9 @@ class SecurityResearcher:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="assets/divider.png" alt=""/>
+</p>
 
 ### 🔬 Featured Research & Projects
 
@@ -143,7 +151,9 @@ class SecurityResearcher:
 </table>
 </div>
 
----
+<p align="center">
+  <img width="100%" src="assets/divider.png" alt=""/>
+</p>
 
 ### 📊 GitHub Analytics
 
@@ -156,13 +166,17 @@ class SecurityResearcher:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodirumurkulov&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="700"/>
 </div>
 
----
+<p align="center">
+  <img width="100%" src="assets/divider.png" alt=""/>
+</p>
 
 ### 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nodirumurkulov&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)](https://github.com/nodirumurkulov)
 
----
+<p align="center">
+  <img width="100%" src="assets/divider.png" alt=""/>
+</p>
 
 ### 🏆 CTF & Certifications
 
@@ -174,7 +188,9 @@ class SecurityResearcher:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="assets/divider.png" alt=""/>
+</p>
 
 <div align="center">
 
@@ -191,4 +207,6 @@ class SecurityResearcher:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6334&height=120&section=footer"/>
+<p align="center">
+  <img width="100%" src="assets/footer-banner.png" alt="offense informs defense"/>
+</p>
