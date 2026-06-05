@@ -240,9 +240,27 @@ class SecurityResearcher:
 
 <div align="center">
 
+**CTF Platforms**
+
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC_L1-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![CTF Player](https://img.shields.io/badge/CTF-Player-critical?style=for-the-badge)
 ![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![PicoCTF](https://img.shields.io/badge/PicoCTF-2C3E50?style=for-the-badge)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-1a1a2e?style=for-the-badge)
+![CTFtime](https://img.shields.io/badge/CTFtime-CD3333?style=for-the-badge)
+![VulnHub](https://img.shields.io/badge/VulnHub-404D59?style=for-the-badge)
+![CyberDefenders](https://img.shields.io/badge/CyberDefenders-1B4D3E?style=for-the-badge)
+
+**Security Certifications**
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-8B0000?style=for-the-badge)
+![OSCP](https://img.shields.io/badge/OSCP-0078D4?style=for-the-badge)
+![CISSP](https://img.shields.io/badge/CISSP-006400?style=for-the-badge)
+![AWS Security](https://img.shields.io/badge/AWS_Security_Specialty-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GIAC](https://img.shields.io/badge/GIAC-003366?style=for-the-badge)
+![CISM](https://img.shields.io/badge/CISM-4B0082?style=for-the-badge)
+![eJPT](https://img.shields.io/badge/eJPT-E34F26?style=for-the-badge)
 
 </div>
 
